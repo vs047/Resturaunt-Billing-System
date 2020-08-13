@@ -1,0 +1,15 @@
+						THE BIG BITE RESTURAUNT
+
+S.No|  ITEM NAME  | QUANTITY  | PRICE(in Rs)    |
+ 1  |	Roti	  |	5     |	25    		|
+ 2  |	Daal	  |	2     |	40    		| 
+ 3  |	Apple	  |	1     |	200    		|
+ 4  |	Fish	  |	1     |	85    		|
+ 5  |	Jal-jeera |	2     |	40    		|
+ 6  |	Chicken	  |	1     |	60    		|
+ 7  |	Pepsi	  |	2     |	40    		|
+
+Total Cost:-Rs490.0
+GST Percentage:-18%
+GST Cost:-Rs88.2
+Grand Total:-Rs578.2
